@@ -23,7 +23,7 @@ import (
 // urlcheckerCmd represents the urlchecker command
 var urlcheckerCmd = &cobra.Command{
 	Use:   "urlchecker",
-	Short: "A brief description of your command",
+	Short: "#3.7 FAST URLChecker",
 	Run: func(cmd *cobra.Command, args []string) {
 		urlchecker.UrlChecker()
 	},

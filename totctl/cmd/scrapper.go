@@ -23,7 +23,7 @@ import (
 // scrapperCmd represents the scrapper command
 var scrapperCmd = &cobra.Command{
 	Use:   "scrapper",
-	Short: "A brief description of your command",
+	Short: "#4 JOB SCRAPPER",
 }
 
 var singleCmd = &cobra.Command{
